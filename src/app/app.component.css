@@ -1,0 +1,40 @@
+
+/* body {
+    background-color: whitesmoke;
+    padding-bottom: 10%;
+} */
+
+
+.headlight {
+    font-family: "Arial Black", sans-serif;
+    font-style: oblique;
+    font-size: 4.5em;
+    letter-spacing: -1px;
+    text-align: center;
+    color: white;
+   }
+.minilight {
+    font-family: "Arial Black", sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 2.5em;
+    /* letter-spacing: -1px; */
+    color: white;
+   }
+
+.jumbotron {
+    background-image: url(src/assets/images/foodbghd.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.container {
+    /* background-image: url(src/assets/images/foodbg.jpeg) ; */
+    background-color: azure;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
